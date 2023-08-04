@@ -95,7 +95,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.212.24.7:8081/repository/telsa-frontend/</url>
+	      <url>http://44.212.24.7:8081/repository/telsa-frontend-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
